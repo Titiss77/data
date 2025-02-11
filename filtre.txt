@@ -1,0 +1,47 @@
+! 2 juil. 2024 https://papadustream.mov
+papadustream.mov###pub
+papadustream.mov###playerOver
+papadustream.mov##.stopep
+papadustream.mov##.saisontab-bis
+papadustream.mov##div.fx_row.full_content-inner:nth-of-type(2)
+papadustream.mov##.center.head_two
+papadustream.mov##.show_side-btnm-s.show_side-btnm
+papadustream.mov##.side
+papadustream.mov##.g-buttons
+papadustream.mov##.fx_row.full_inner.fplayer.full_content-inner
+papadustream.mov##.tabs_sel
+papadustream.mov##.fx-row.full-ser-ctrl
+papadustream.mov##.footer
+papadustream.mov##.fx_row.full_content > .img_box.full_content-poster
+
+! 6 juil. 2024 https://v5.voiranime.com
+v5.voiranime.com##.main-col-inner > .row
+v5.voiranime.com##.site-footer
+v5.voiranime.com###menu-item-92149 > [href="https://voirdrama.org/"]
+v5.voiranime.com###menu-item-2061 > [href^="https://v5.voiranime.com/"]
+v5.voiranime.com###menu-item-53504 > [href="https://v5.voiranime.com/prochainement/"]
+v5.voiranime.com###menu-item-88326 > [href="https://v5.voiranime.com/nouveaux-ajouts/"]
+v5.voiranime.com###menu-item-48192 > [href="https://v5.voiranime.com/liste-danimes/"]
+v5.voiranime.com##.wrap_branding
+v5.voiranime.com##.with-border.c-sub-header-nav
+
+! 9 août 2024 https://nightflix.bond
+nightflix.online##li:nth-of-type(3)
+nightflix.online##div.suite:nth-of-type(5)
+nightflix.online##div.suite:nth-of-type(6)
+nightflix.online##.droite > .jo-paris-2024
+nightflix.online##.icon > [href="/list/"]
+nightflix.online##.marquee-container
+nightflix.online##.button
+nightflix.online##.bannerpb
+nightflix.online###container
+nightflix.online##.banner__buttons
+nightflix.online##.banner__description
+nightflix.online##.callaction-popup--not-accepted.callaction-popup--dark.callaction-popup--short.callaction-popup
+nightflix.online##h1.banner__title:nth-of-type(2)
+nightflix.online##div.suite:nth-of-type(3)
+nightflix.online##div.suite:nth-of-type(4)
+nightflix.online##.whatsapp-popup
+nightflix.online###o1p3mhh8pmhg1726738744959
+nightflix.online##.droite > .telegram
+
