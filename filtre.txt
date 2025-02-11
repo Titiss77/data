@@ -26,22 +26,22 @@ v5.voiranime.com##.wrap_branding
 v5.voiranime.com##.with-border.c-sub-header-nav
 
 ! 9 août 2024 https://nightflix.bond
-nightflix.online##li:nth-of-type(3)
-nightflix.online##div.suite:nth-of-type(5)
-nightflix.online##div.suite:nth-of-type(6)
-nightflix.online##.droite > .jo-paris-2024
-nightflix.online##.icon > [href="/list/"]
-nightflix.online##.marquee-container
-nightflix.online##.button
-nightflix.online##.bannerpb
-nightflix.online###container
-nightflix.online##.banner__buttons
-nightflix.online##.banner__description
-nightflix.online##.callaction-popup--not-accepted.callaction-popup--dark.callaction-popup--short.callaction-popup
-nightflix.online##h1.banner__title:nth-of-type(2)
-nightflix.online##div.suite:nth-of-type(3)
-nightflix.online##div.suite:nth-of-type(4)
-nightflix.online##.whatsapp-popup
-nightflix.online###o1p3mhh8pmhg1726738744959
-nightflix.online##.droite > .telegram
+nightflix.pics##li:nth-of-type(3)
+nightflix.pics##div.suite:nth-of-type(5)
+nightflix.pics##div.suite:nth-of-type(6)
+nightflix.pics##.droite > .jo-paris-2024
+nightflix.pics##.icon > [href="/list/"]
+nightflix.pics##.marquee-container
+nightflix.pics##.button
+nightflix.pics##.bannerpb
+nightflix.pics###container
+nightflix.pics##.banner__buttons
+nightflix.pics##.banner__description
+nightflix.pics##.callaction-popup--not-accepted.callaction-popup--dark.callaction-popup--short.callaction-popup
+nightflix.pics##h1.banner__title:nth-of-type(2)
+nightflix.pics##div.suite:nth-of-type(3)
+nightflix.pics##div.suite:nth-of-type(4)
+nightflix.pics##.whatsapp-popup
+nightflix.pics###o1p3mhh8pmhg1726738744959
+nightflix.pics##.droite > .telegram
 
