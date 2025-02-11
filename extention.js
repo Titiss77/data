@@ -25,6 +25,7 @@ function updateFilmLinks() {
 
                 // Affichage des films avec les liens générés
                 console.log(films);
+                return films;
             });
         })
         .catch(error => {
