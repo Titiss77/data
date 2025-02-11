@@ -574,7 +574,7 @@
         "id": "shrek1",
         "nom": "Shrek 1",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/808/shrek-1",
+        "lien": "https://nightflix.pics/f/808/shrek-1",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/shrek1.png"
     },
@@ -583,7 +583,7 @@
         "id": "lAmourOuf",
         "nom": "L'amour ouf",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/959604/lamour-ouf",
+        "lien": "https://nightflix.pics/f/959604/lamour-ouf",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/lAmourOuf.png"
     },
@@ -592,7 +592,7 @@
         "id": "saw2",
         "nom": "Saw II",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/215/saw-2",
+        "lien": "https://nightflix.pics/f/215/saw-2",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-2.png"
     },
@@ -601,7 +601,7 @@
         "id": "saw3",
         "nom": "Saw III",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/214/saw-3",
+        "lien": "https://nightflix.pics/f/214/saw-3",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-3.png"
     },
@@ -610,7 +610,7 @@
         "id": "saw4",
         "nom": "Saw IV",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/663/saw-4",
+        "lien": "https://nightflix.pics/f/663/saw-4",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-4.png"
     },
@@ -619,7 +619,7 @@
         "id": "saw5",
         "nom": "Saw V",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/11917/saw-5",
+        "lien": "https://nightflix.pics/f/11917/saw-5",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-5.png"
     },
@@ -628,7 +628,7 @@
         "id": "saw6",
         "nom": "Saw VI",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/22804/saw-6",
+        "lien": "https://nightflix.pics/f/22804/saw-6",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-6.png"
     },
@@ -637,7 +637,7 @@
         "id": "saw7",
         "nom": "Saw: The Final Chapter",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/41439/saw-3d-chapitre-final",
+        "lien": "https://nightflix.pics/f/41439/saw-3d-chapitre-final",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-7.png"
     },
@@ -646,7 +646,7 @@
         "id": "saw8",
         "nom": "Jigsaw",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/298250/jigsaw",
+        "lien": "https://nightflix.pics/f/298250/jigsaw",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-8.png"
     },
@@ -655,7 +655,7 @@
         "id": "saw9",
         "nom": "Spiral: From the book of Saw",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/602734/spirale-l-heritage-de-saw",
+        "lien": "https://nightflix.pics/f/602734/spirale-l-heritage-de-saw",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-9.png"
     },
@@ -664,7 +664,7 @@
         "id": "saw10",
         "nom": "Saw X",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/951491/saw-x",
+        "lien": "https://nightflix.pics/f/951491/saw-x",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/saw-10.png"
     },
@@ -673,7 +673,7 @@
         "id": "oppenheimer",
         "nom": "Oppenheimer",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/872585/oppenheimer",
+        "lien": "https://nightflix.pics/f/872585/oppenheimer",
         "description": "temps: 02:28:00",
         "image": "https://banque-img.netlify.app/img/amfs/films/oppenheimer.png"
     },
@@ -682,7 +682,7 @@
         "id": "divergeante2",
         "nom": "Divergeante 2",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/262500/divergente-2",
+        "lien": "https://nightflix.pics/f/262500/divergente-2",
         "description": "temps: 01:04:16",
         "image": "https://banque-img.netlify.app/img/amfs/films/divergente-2.png"
     },
@@ -691,7 +691,7 @@
         "id": "divergeante3",
         "nom": "Divergeante 3",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/262504/divergente-3",
+        "lien": "https://nightflix.pics/f/262504/divergente-3",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/divergente-3.png"
     },
@@ -700,7 +700,7 @@
         "id": "lpds2",
         "nom": "Planète des singes : L'affrontement",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/119450/la-planete-des-singes-l-affrontement",
+        "lien": "https://nightflix.pics/f/119450/la-planete-des-singes-l-affrontement",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/lpds-2.png"
     },
@@ -709,7 +709,7 @@
         "id": "lpds3",
         "nom": "Planète des singes : Suprématie",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/281338/la-planete-des-singes-suprematie",
+        "lien": "https://nightflix.pics/f/281338/la-planete-des-singes-suprematie",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/lpds-3.png"
     },
@@ -718,7 +718,7 @@
         "id": "lpds4",
         "nom": "Planète des singes : Le Nouveau Royaume",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/653346/la-planete-des-singes-le-nouveau-royaume",
+        "lien": "https://nightflix.pics/f/653346/la-planete-des-singes-le-nouveau-royaume",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/lpds-4.png"
     },
@@ -727,7 +727,7 @@
         "id": "badboys1",
         "nom": "Bad Boys 1",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/9737/bad-boys",
+        "lien": "https://nightflix.pics/f/9737/bad-boys",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/bad-boys-1.png"
     },
@@ -736,7 +736,7 @@
         "id": "badboys2",
         "nom": "Bad Boys 2",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/8961/bad-boys-2",
+        "lien": "https://nightflix.pics/f/8961/bad-boys-2",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/bad-boys-2.png"
     },
@@ -745,7 +745,7 @@
         "id": "badboys3",
         "nom": "Bad Boys 3",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/38700/bad-boys-3",
+        "lien": "https://nightflix.pics/f/38700/bad-boys-3",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/bad-boys-3.png"
     },
@@ -754,7 +754,7 @@
         "id": "badboys4",
         "nom": "Bad Boys: Ride or die",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/573435/bad-boys-ride-or-die",
+        "lien": "https://nightflix.pics/f/573435/bad-boys-ride-or-die",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/bad-boys-4.png"
     },
@@ -763,7 +763,7 @@
         "id": "arrete-moi-si-tu-peux",
         "nom": "Arrete moi si tu peux",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/640/arrete-moi-si-tu-peux",
+        "lien": "https://nightflix.pics/f/640/arrete-moi-si-tu-peux",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/arrete-moi-si-tu-peux.png"
     },
@@ -772,7 +772,7 @@
         "id": "terrifier2",
         "nom": "Terrifier 2",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/663712/terrifier-2",
+        "lien": "https://nightflix.pics/f/663712/terrifier-2",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/terrifier.png"
     },
@@ -781,7 +781,7 @@
         "id": "gladiator2",
         "nom": "Gladiator 2",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/558449/gladiator-2",
+        "lien": "https://nightflix.pics/f/558449/gladiator-2",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/gladiator2.png"
     },
