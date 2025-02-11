@@ -2,7 +2,7 @@
 
 // Fonction pour lire l'extension à partir du fichier texte
 function extentionNightflix() {
-    return fetch('extend_nightflix.txt')
+    return fetch('https://titiss77.github.io/data/extend_nightflix.txt')
         .then(response => response.text())
         .then(text => text.trim()) // Suppression des espaces superflus
         .catch(error => {
@@ -13,7 +13,7 @@ function extentionNightflix() {
 
 // Chargement du fichier JSON et remplacement de {ext} dans les liens
 function updateFilmLinks() {
-    fetch('enregistrement.json')
+    fetch('https://titiss77.github.io/data/enregistrement.json')
         .then(response => response.json())
         .then(films => {
             // Chargement de l'extension à partir du fichier texte
