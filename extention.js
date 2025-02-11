@@ -1,26 +1,36 @@
 // extensions.js
-function extentionNightflix() {
-    // Exemple de correspondance d'ID avec des extensions (cela peut venir d'une source externe)
-    const extensions = ".pics";
 
-    // Retourne l'extension correspondante selon l'ID
-    return extensions || ".fesses"; // Par défaut, retourne .pics si l'ID n'est pas trouvé
+// Fonction pour lire l'extension à partir du fichier texte
+function extentionNightflix() {
+    return fetch('extend_nightflix.txt')
+        .then(response => response.text())
+        .then(text => text.trim()) // Suppression des espaces superflus
+        .catch(error => {
+            console.error('Erreur de chargement du fichier extend_nightflix.txt:', error);
+            return ".pics"; // Retour par défaut si erreur
+        });
 }
 
-// Chargement du fichier JSON
-fetch('enregistrement.json')
-    .then(response => response.json())
-    .then(films => {
-        // Mise à jour des liens avec l'extension appropriée
-        films.forEach(film => {
-            const extension = extentionNightflix();
-            // Remplacer {ext} par l'extension appropriée
-            film.lien = film.lien.replace("{ext}", extension);
-        });
+// Chargement du fichier JSON et remplacement de {ext} dans les liens
+function updateFilmLinks() {
+    fetch('enregistrement.json')
+        .then(response => response.json())
+        .then(films => {
+            // Chargement de l'extension à partir du fichier texte
+            extentionNightflix().then(extension => {
+                films.forEach(film => {
+                    // Remplacer {ext} par l'extension appropriée
+                    film.lien = film.lien.replace("{ext}", extension);
+                });
 
-        // Affichage des films avec les liens générés
-        console.log(films);
-    })
-    .catch(error => {
-        console.error('Erreur de chargement du fichier enregistrement.json:', error);
-    });
+                // Affichage des films avec les liens générés
+                console.log(films);
+            });
+        })
+        .catch(error => {
+            console.error('Erreur de chargement du fichier enregistrement.json:', error);
+        });
+}
+
+// Appel de la fonction pour mettre à jour les liens
+updateFilmLinks();

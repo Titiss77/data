@@ -1,18 +1,1 @@
-{
-        "id_div": "#film",
-        "id": "shrek1",
-        "nom": "Shrek 1",
-        "categorie": "film",
-        "lien": "https://nightflix{ext}/f/808/shrek-1",
-        "description": "",
-        "image": "https://banque-img.netlify.app/img/amfs/films/shrek1.png"
-    },
-    {
-        "id_div": "#film",
-        "id": "lAmourOuf",
-        "nom": "L'amour ouf",
-        "categorie": "film",
-        "lien": "https://nightflix{ext}/f/959604/lamour-ouf",
-        "description": "",
-        "image": "https://banque-img.netlify.app/img/amfs/films/lAmourOuf.png"
-    },
+.pics
