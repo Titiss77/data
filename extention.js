@@ -1,29 +1,22 @@
-// extensions.js
-
-// Fonction pour lire l'extension à partir du fichier texte
 function extentionNightflix() {
     return fetch('https://titiss77.github.io/data/extend_nightflix.txt')
         .then(response => response.text())
-        .then(text => text.trim()) // Suppression des espaces superflus
+        .then(text => text.trim())
         .catch(error => {
             console.error('Erreur de chargement du fichier extend_nightflix.txt:', error);
-            return ".pics"; // Retour par défaut si erreur
+            return ".pics";
         });
 }
 
-// Chargement du fichier JSON et remplacement de {ext} dans les liens
 function updateFilmLinks() {
     fetch('https://titiss77.github.io/data/enregistrement.json')
         .then(response => response.json())
         .then(films => {
-            // Chargement de l'extension à partir du fichier texte
             extentionNightflix().then(extension => {
                 films.forEach(film => {
-                    // Remplacer {ext} par l'extension appropriée
                     film.lien = film.lien.replace("{ext}", extension);
                 });
 
-                // Affichage des films avec les liens générés
                 console.log(films);
                 return films;
             });
@@ -33,5 +26,4 @@ function updateFilmLinks() {
         });
 }
 
-// Appel de la fonction pour mettre à jour les liens
 updateFilmLinks();
