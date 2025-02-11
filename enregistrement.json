@@ -67,7 +67,7 @@
         "saison_actuelle": 1, 
         "maxSaison": 1, 
         "maxEp": 28, 
-        "episode": 24 
+        "episode": 26
     }, 
         { "id_div": "#actu_anime", 
         "id": "op-an", 
