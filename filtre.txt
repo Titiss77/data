@@ -44,4 +44,7 @@ nightflix.pics##div.suite:nth-of-type(4)
 nightflix.pics##.whatsapp-popup
 nightflix.pics###o1p3mhh8pmhg1726738744959
 nightflix.pics##.droite > .telegram
+nightflix.pics##.info
+nightflix.pics##div.suite:nth-of-type(8)
+nightflix.pics###premiumBtnC
 
