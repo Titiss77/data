@@ -61,21 +61,6 @@
     },
     {
         "id_div": "#actu_anime",
-        "id": "frieren",
-        "nom": "Frieren",
-        "categorie": "anime",
-        "lien": "",
-        "description": "",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/frieren.jpg",
-        "dateLimite": "2024-03-22T17:20:00.000Z",
-        "redirectUrl": "https://v5.voiranime.com/anime/sousou-no-frieren/sousou-no-frieren-",
-        "saison_actuelle": 1,
-        "maxSaison": 1,
-        "maxEp": 28,
-        "episode": 26
-    },
-    {
-        "id_div": "#actu_anime",
         "id": "op-an",
         "nom": "One Piece",
         "categorie": "anime",
