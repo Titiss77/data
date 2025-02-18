@@ -565,15 +565,6 @@
     },
     {
         "id_div": "#film",
-        "id": "lAmourOuf",
-        "nom": "L'amour ouf",
-        "categorie": "film",
-        "lien": "https://nightflix{ext}/f/959604/lamour-ouf",
-        "description": "",
-        "image": "https://banque-img.netlify.app/img/amfs/films/lAmourOuf.png"
-    },
-    {
-        "id_div": "#film",
         "id": "saw2",
         "nom": "Saw II",
         "categorie": "film",
