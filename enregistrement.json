@@ -556,12 +556,21 @@
     },
     {
         "id_div": "#film",
-        "id": "shrek1",
-        "nom": "Shrek 1",
+        "id": "shrek2",
+        "nom": "Shrek 2",
         "categorie": "film",
-        "lien": "https://nightflix{ext}/f/808/shrek-1",
+        "lien": "https://nightflix{ext}/f/809/shrek-2",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/films/shrek1.png"
+    },
+    {
+        "id_div": "#film",
+        "id": "theSubstance",
+        "nom": "The Substance",
+        "categorie": "film",
+        "lien": "https://nightflix{ext}/f/933260/the-substance",
+        "description": "",
+        "image": "https://banque-img.netlify.app/img/amfs/films/theSubstance.png"
     },
     {
         "id_div": "#film",
