@@ -31,21 +31,6 @@
     },
     {
         "id_div": "#actu_anime",
-        "id": "the-misfit",
-        "nom": "The Misfit of Demon King Academy",
-        "categorie": "anime",
-        "lien": "",
-        "description": "",
-        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-misfit-of-demon-king-academy.jpg",
-        "dateLimite": "2024-05-03T18:15:00.000Z",
-        "redirectUrl": "https://v5.voiranime.com/anime/maou-gakuin-no-futekigousha-2/maou-gakuin-no-futekigousha-2-",
-        "saison_actuelle": 2,
-        "maxSaison": 2,
-        "maxEp": 24,
-        "episode": 20
-    },
-    {
-        "id_div": "#actu_anime",
         "id": "sword-gai",
         "nom": "Sword Gai",
         "categorie": "anime",
