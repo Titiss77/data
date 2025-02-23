@@ -372,7 +372,7 @@
         "id_div": "#liens_utiles",
         "id": "netflix",
         "nom": "Netflix",
-        "categorie": "films_series",
+        "categorie": "payant",
         "lien": "https://www.netflix.com/",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/utiles/netflix.png"
@@ -381,7 +381,7 @@
         "id_div": "#liens_utiles",
         "id": "prime",
         "nom": "Prime Video",
-        "categorie": "films_series",
+        "categorie": "payant",
         "lien": "https://www.primevideo.com/",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/utiles/prime_video.png"
