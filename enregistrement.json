@@ -471,7 +471,7 @@
         "id_div": "#liens_utiles",
         "id": "nightflix",
         "nom": "NightFlix",
-        "categorie": "serie",
+        "categorie": "all",
         "lien": "https://nightflix-vraie-adresse.com",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/utiles/nightflix.png"
