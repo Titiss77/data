@@ -415,30 +415,12 @@
     },
     {
         "id_div": "#liens_utiles",
-        "id": "anime-paradise",
-        "nom": "Anime Paradis",
-        "categorie": "anime",
-        "lien": "https://www2.animeparadis.com/",
-        "description": "",
-        "image": "https://banque-img.netlify.app/img/amfs/utiles/anime_paradise.png"
-    },
-    {
-        "id_div": "#liens_utiles",
         "id": "bananime",
         "nom": "Bananime",
         "categorie": "anime",
         "lien": "https://bananimes.com/",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/utiles/bananime.png"
-    },
-    {
-        "id_div": "#liens_utiles",
-        "id": "otakufr",
-        "nom": "Otaku fr",
-        "categorie": "scan",
-        "lien": "https://otakufr.co/liste-anime/",
-        "description": "",
-        "image": "https://banque-img.netlify.app/img/amfs/utiles/otaku_fr.png"
     },
     {
         "id_div": "#liens_utiles",
@@ -454,7 +436,7 @@
         "id": "sushiscan",
         "nom": "sushiscan",
         "categorie": "scan",
-        "lien": "https://sushiscan.fr/",
+        "lien": "https://sushiscan.top",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/utiles/sushiscan.png"
     },
@@ -478,15 +460,6 @@
     },
     {
         "id_div": "#liens_utiles",
-        "id": "zone-tele",
-        "nom": "Zone Telechargement",
-        "categorie": "film",
-        "lien": "https://www.zone-telechargement.tel/",
-        "description": "",
-        "image": "https://banque-img.netlify.app/img/amfs/utiles/zone_telechargement.png"
-    },
-    {
-        "id_div": "#liens_utiles",
         "id": "plr-f",
         "nom": "PLR",
         "categorie": "film",
@@ -505,15 +478,6 @@
     },
     {
         "id_div": "#liens_utiles",
-        "id": "xalaflix",
-        "nom": "Xalaflix",
-        "categorie": "serie",
-        "lien": "https://xalaflix.io/",
-        "description": "",
-        "image": "https://banque-img.netlify.app/img/amfs/utiles/xalaflix.png"
-    },
-    {
-        "id_div": "#liens_utiles",
         "id": "papadu",
         "nom": "PapaDuStream",
         "categorie": "serie",
@@ -529,15 +493,6 @@
         "lien": "https://sites.google.com/view/prl-series/accueil?authuser=0",
         "description": "",
         "image": "https://banque-img.netlify.app/img/amfs/utiles/plr.png"
-    },
-    {
-        "id_div": "#liens_utiles",
-        "id": "vip",
-        "nom": "VipLeague",
-        "categorie": "sport",
-        "lien": "https://en.vipleague.tv/",
-        "description": "",
-        "image": "https://banque-img.netlify.app/img/amfs/utiles/vipleague.png"
     },
     {
         "id_div": "#film",
