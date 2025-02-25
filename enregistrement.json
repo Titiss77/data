@@ -74,6 +74,21 @@
         "maxEp": 12,
         "episode": 1
     },
+{
+        "id_div": "#actu_anime",
+        "id": "soloLeveling",
+        "nom": "Solo Leveling",
+        "categorie": "anime",
+        "lien": "",
+        "description": "",
+        "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-leveling.jpg",
+        "dateLimite": "2024-05-12T20:20:00.000Z",
+        "redirectUrl":"https://v6.voiranime.com/anime/solo-leveling-2/solo-leveling-",
+        "saison_actuelle": 2,
+        "maxSaison": 2,
+        "maxEp": 9,
+        "episode": 1
+    },
     {
         "id_div": "#actu_scan",
         "id": "op-sc",
