@@ -47,8 +47,6 @@ nightflix.boats##.droite > .telegram
 nightflix.boats##.info
 nightflix.boats##div.suite:nth-of-type(8)
 nightflix.boats###premiumBtnC
-nightflix.boats###container
-nightflix.boats##.callaction-popup--not-accepted.callaction-popup--dark.callaction-popup--short.callaction-popup
-nightflix.boats###premiumBtnC
 
 nightflix.boats##div.carroussel:nth-of-type(10)
+nightflix.boats##DIV[class="player-buttons"]
