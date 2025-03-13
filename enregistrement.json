@@ -511,6 +511,51 @@
     },
     {
         "id_div": "#film",
+        "id": "americannightmare1",
+        "nom": "American_Nightmare 1",
+        "categorie": "film",
+        "lien": "https://nightflix{ext}/f/158015/american-nightmare",
+        "description": "",
+        "image": "https://banque-img.netlify.app/img/amfs/films/americannightmare1.png"
+    },
+    {
+        "id_div": "#film",
+        "id": "americannightmare2",
+        "nom": "American_Nightmare 2",
+        "categorie": "film",
+        "lien": "https://nightflix{ext}/f/238636/american-nightmare-2",
+        "description": "",
+        "image": "https://banque-img.netlify.app/img/amfs/films/americannightmare2.png"
+    },
+    {
+        "id_div": "#film",
+        "id": "americannightmare3",
+        "nom": "American_Nightmare 3",
+        "categorie": "film",
+        "lien": "https://nightflix{ext}/f/316727/american-nightmare-3-Elections",
+        "description": "",
+        "image": "https://banque-img.netlify.app/img/amfs/films/americannightmare3.png"
+    },
+    {
+        "id_div": "#film",
+        "id": "americannightmare4",
+        "nom": "American_Nightmare 4",
+        "categorie": "film",
+        "lien": "https://nightflix{ext}/f/442249/american-nightmare-4-les-origines",
+        "description": "",
+        "image": "https://banque-img.netlify.app/img/amfs/films/americannightmare4.png"
+    },
+    {
+        "id_div": "#film",
+        "id": "americannightmare5",
+        "nom": "American_Nightmare 5",
+        "categorie": "film",
+        "lien": "https://nightflix{ext}/f/602223/american-nightmare-5-sans-limites",
+        "description": "",
+        "image": "https://banque-img.netlify.app/img/amfs/films/americannightmare5.png"
+    },
+    {
+        "id_div": "#film",
         "id": "troismousquetaires",
         "nom": "Les 3 mousquetaires : Milady",
         "categorie": "film",
