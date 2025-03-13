@@ -13,7 +13,6 @@ papadustream.mov##.tabs_sel
 papadustream.mov##.fx-row.full-ser-ctrl
 papadustream.mov##.footer
 papadustream.mov##.fx_row.full_content > .img_box.full_content-poster
-
 ! 6 juil. 2024 https://v5.voiranime.com
 v5.voiranime.com##.main-col-inner > .row
 v5.voiranime.com##.site-footer
@@ -24,29 +23,28 @@ v5.voiranime.com###menu-item-88326 > [href="https://v5.voiranime.com/nouveaux-aj
 v5.voiranime.com###menu-item-48192 > [href="https://v5.voiranime.com/liste-danimes/"]
 v5.voiranime.com##.wrap_branding
 v5.voiranime.com##.with-border.c-sub-header-nav
-
 ! 9 août 2024 https://nightflix.bond
-nightflix.boats##li:nth-of-type(3)
-nightflix.boats##div.suite:nth-of-type(5)
-nightflix.boats##div.suite:nth-of-type(6)
-nightflix.boats##.droite > .jo-paris-2024
-nightflix.boats##.icon > [href="/list/"]
-nightflix.boats##.marquee-container
-nightflix.boats##.button
-nightflix.boats##.bannerpb
-nightflix.boats###container
-nightflix.boats##.banner__buttons
-nightflix.boats##.banner__description
-nightflix.boats##.callaction-popup--not-accepted.callaction-popup--dark.callaction-popup--short.callaction-popup
-nightflix.boats##h1.banner__title:nth-of-type(2)
-nightflix.boats##div.suite:nth-of-type(3)
-nightflix.boats##div.suite:nth-of-type(4)
-nightflix.boats##.whatsapp-popup
-nightflix.boats###o1p3mhh8pmhg1726738744959
-nightflix.boats##.droite > .telegram
-nightflix.boats##.info
-nightflix.boats##div.suite:nth-of-type(8)
-nightflix.boats###premiumBtnC
-
-nightflix.boats##div.carroussel:nth-of-type(10)
-nightflix.boats##DIV[class="player-buttons"]
+nightflix.website##li:nth-of-type(3)
+nightflix.website##div.suite:nth-of-type(5)
+nightflix.website##div.suite:nth-of-type(6)
+nightflix.website##.droite > .jo-paris-2024
+nightflix.website##.icon > [href="/list/"]
+nightflix.website##.marquee-container
+nightflix.website##.button
+nightflix.website##.bannerpb
+nightflix.website###container
+nightflix.website##.banner__buttons
+nightflix.website##.banner__description
+nightflix.website##.callaction-popup--not-accepted.callaction-popup--dark.callaction-popup--short.callaction-popup
+nightflix.website##h1.banner__title:nth-of-type(2)
+nightflix.website##div.suite:nth-of-type(3)
+nightflix.website##div.suite:nth-of-type(4)
+nightflix.website##.whatsapp-popup
+nightflix.website###o1p3mhh8pmhg1726738744959
+nightflix.website##.droite > .telegram
+nightflix.website##.info
+nightflix.website##div.suite:nth-of-type(8)
+nightflix.website###premiumBtnC
+nightflix.website##div.carroussel:nth-of-type(10)
+nightflix.website##DIV[class="player-buttons"]
+@@||v6.voiranime.com/$document
