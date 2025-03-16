@@ -512,7 +512,7 @@
     {
         "id_div": "#film",
         "id": "americannightmare1",
-        "nom": "American_Nightmare 1",
+        "nom": "American Nightmare 1",
         "categorie": "film",
         "lien": "https://nightflix{ext}/f/158015/american-nightmare",
         "description": "Temps : 52:24",
@@ -521,7 +521,7 @@
     {
         "id_div": "#film",
         "id": "americannightmare2",
-        "nom": "American_Nightmare 2",
+        "nom": "American Nightmare 2",
         "categorie": "film",
         "lien": "https://nightflix{ext}/f/238636/american-nightmare-2",
         "description": "",
@@ -539,7 +539,7 @@
     {
         "id_div": "#film",
         "id": "americannightmare4",
-        "nom": "American_Nightmare 4",
+        "nom": "American Nightmare 4",
         "categorie": "film",
         "lien": "https://nightflix{ext}/f/442249/american-nightmare-4-les-origines",
         "description": "",
@@ -548,7 +548,7 @@
     {
         "id_div": "#film",
         "id": "americannightmare5",
-        "nom": "American_Nightmare 5",
+        "nom": "American Nightmare 5",
         "categorie": "film",
         "lien": "https://nightflix{ext}/f/602223/american-nightmare-5-sans-limites",
         "description": "",
