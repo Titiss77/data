@@ -511,15 +511,6 @@
     },
     {
         "id_div": "#film",
-        "id": "americannightmare1",
-        "nom": "American Nightmare 1",
-        "categorie": "film",
-        "lien": "https://nightflix{ext}/f/158015/american-nightmare",
-        "description": "Temps : 52:24",
-        "image": "https://banque-img.netlify.app/img/amfs/films/americannightmare1.png"
-    },
-    {
-        "id_div": "#film",
         "id": "americannightmare2",
         "nom": "American Nightmare 2",
         "categorie": "film",
