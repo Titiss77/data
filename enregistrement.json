@@ -240,6 +240,21 @@
         "episode": 5
     },
     {
+        "id_div": "#serie",
+        "id": "prisonbreak",
+        "nom": "Prison Break",
+        "categorie": "serie",
+        "lien": "",
+        "description": "",
+        "image": "https://banque-img.netlify.app/img/amfs/series/prisonbreak.png",
+        "dateLimite": "2020-10-17T17:00:00.000Z",
+        "redirectUrl": "https://papadustream.vc/categorie-series/drame-s/1783-prison-break/",
+        "saison_actuelle": 1,
+        "maxSaison": 5,
+        "maxEp": 22,
+        "episode": 5
+    },
+    {
         "id_div": "#actu_tools",
         "id": "obfuscator",
         "nom": "obfuscator",
