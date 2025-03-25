@@ -82,12 +82,12 @@
         "lien": "",
         "description": "",
         "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-leveling.jpg",
-        "dateLimite": "2025-03-15T20:00:00.000Z",
+        "dateLimite": "2025-03-29T20:00:00.000Z",
         "redirectUrl":"https://v6.voiranime.com/anime/solo-leveling-2/solo-leveling-2-",
         "saison_actuelle": 2,
         "maxSaison": 2,
         "maxEp": 13,
-        "episode": 11
+        "episode": 13
     }, 
     {
         "id_div": "#actu_scan",
